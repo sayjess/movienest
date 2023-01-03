@@ -70,6 +70,12 @@ small {
   background-color: rgba(0,0,0, .85);
 }
 
+/* CARD */
+
+/* .card-list {
+
+} */
+
 @media (min-width:786px) {
 
   /* SearchMovie Component */
@@ -82,6 +88,5 @@ small {
   .input {
     margin-bottom: 0;
   }
-
   
 }
